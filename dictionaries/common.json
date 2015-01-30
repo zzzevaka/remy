@@ -1,0 +1,94 @@
+{"eng" : ["person"], "rus" : ["человек"]}
+{"eng" : ["people"], "rus" : ["люди"]}
+{"eng" : ["man"], "rus" : ["мужчина"]}
+{"eng" : ["men"], "rus" : ["мужчины"]}
+{"eng" : ["woman"], "rus" : ["женщина"]}
+{"eng" : ["women"], "rus" : ["женщины"]}
+{"eng" : ["name"], "rus" : ["имя", "называть"]}
+{"eng" : ["surname"], "rus" : ["фамилия"]}
+{"eng" : ["boy"], "rus" : ["мальчик"]}
+{"eng" : ["girl"], "rus" : ["девочка"]}
+{"eng" : ["family"], "rus" : ["семья"]}
+{"eng" : ["relatives"], "rus" : ["родственники", "родня"]}
+{"eng" : ["father"], "rus" : ["отец", "папа"]}
+{"eng" : ["dad"], "rus" : ["папа"]}
+{"eng" : ["mother"], "rus" : ["мать", "мама"]}
+{"eng" : ["mum"], "rus" : ["мама"]}
+{"eng" : ["daughter"], "rus" : ["дочь"]}
+{"eng" : ["son"], "rus" : ["сын"]}
+{"eng" : ["parents"], "rus" : ["родители"]}
+{"eng" : ["brother"], "rus" : ["брат"]}
+{"eng" : ["sister"], "rus" : ["сестра"]}
+{"eng" : ["uncle"], "rus" : ["дядя"]}
+{"eng" : ["aunt"], "rus" : ["тетя"]}
+{"eng" : ["nephew"], "rus" : ["племянник"]}
+{"eng" : ["niece"], "rus" : ["племянница"]}
+{"eng" : ["cousin"], "rus" : ["двоюрдный брат", "двоюрдная сестра"]}
+{"eng" : ["child"], "rus" : ["ребенок", "дитя"]}
+{"eng" : ["friends"], "rus" : ["друзья", "приятели"]}
+{"eng" : ["girlfriend"], "rus" : ["девушка", "подруга"]}
+{"eng" : ["boyfriend"], "rus" : ["парень", "друг"]}
+{"eng" : ["husband"], "rus" : ["муж"]}
+{"eng" : ["wife"], "rus" : ["жена"]}
+{"eng" : ["ex-girlfriend"], "rus" : ["бывшая девушка", "бывшая"]}
+{"eng" : ["ex-boyfriend"], "rus" : ["бывший парень", "бывший"]}
+{"eng" : ["ex-husband"], "rus" : ["бывший муж"]}
+{"eng" : ["ex-wife"], "rus" : ["бывшая жена"]}
+{"eng" : ["father-in-law"], "rus" : ["свекор", "тесть"]}
+{"eng" : ["mother-in-law"], "rus" : ["свекровь", "теща"]}
+{"eng" : ["daughter-in-law"], "rus" : ["сноха", "жена сына"]}
+{"eng" : ["son-in-law"], "rus" : ["муж дочери ", "зять"]}
+{"eng" : ["grandfather"], "rus" : ["дедушка"]}
+{"eng" : ["grandmother"], "rus" : ["бабушка"]}
+{"eng" : ["grandparents"], "rus" : ["бабушка и дедушка", "дедушка и бабушка"]}
+{"eng" : ["grandchildren"], "rus" : ["внуки"]}
+{"eng" : ["granddaughter"], "rus" : ["внучка"]}
+{"eng" : ["grandson"], "rus" : ["внук"]}
+{"eng" : ["grand-grandfather"], "rus" : ["прадедушка"]}
+{"eng" : ["grand-grandmother"], "rus" : ["прабабушка"]}
+{"eng" : ["grand-granddaughter"], "rus" : ["правнучка"]}
+{"eng" : ["grand-grandson"], "rus" : ["правнук"]}
+{"eng" : ["stepfather"], "rus" : ["отчим"]}
+{"eng" : ["stepmother"], "rus" : ["мачеха"]}
+{"eng" : ["stepdaughter"], "rus" : ["падчерица"]}
+{"eng" : ["stepson"], "rus" : ["пасынок"]}
+{"eng" : ["stepbrother"], "rus" : ["сводный брат"]}
+{"eng" : ["stepsister"], "rus" : ["сводная сестра"]}
+{"eng" : ["room"], "rus" : ["комната"]}
+{"eng" : ["things"], "rus" : ["вещи", "предметы"]}
+{"eng" : ["book"], "rus" : ["книга"]}
+{"eng" : ["pen"], "rus" : ["ручка"]}
+{"eng" : ["desk"], "rus" : ["стол", "письменный стол"]}
+{"eng" : ["money"], "rus" : ["деньги"]}
+{"eng" : ["cup"], "rus" : ["голова", "чаша"]}
+{"eng" : ["light"], "rus" : ["свет", "легкий"]}
+{"eng" : ["lamp"], "rus" : ["лампа", "светильник"]}
+{"eng" : ["head"], "rus" : ["голова"]}
+{"eng" : ["human body"], "rus" : ["человеческое тело", "тело человека"]}
+{"eng" : ["neck"], "rus" : ["шея"]}
+{"eng" : ["shoulder"], "rus" : ["плечи", "плечо"]}
+{"eng" : ["hand"], "rus" : ["кисть", "рука"]}
+{"eng" : ["arm"], "rus" : ["рука"]}
+{"eng" : ["finger"], "rus" : ["палец"]}
+{"eng" : ["leg"], "rus" : ["нога"]}
+{"eng" : ["foot"], "rus" : ["ступня"]}
+{"eng" : ["feet"], "rus" : ["ступни"]}
+{"eng" : ["waist"], "rus" : ["талия"]}
+{"eng" : ["knee"], "rus" : ["колено"]}
+{"eng" : ["toe"], "rus" : ["палец"]}
+{"eng" : ["elbow"], "rus" : ["локоть"]}
+{"eng" : ["wrist"], "rus" : ["запястье"]}
+{"eng" : ["thumb"], "rus" : ["большой палец", "палец большой"]}
+{"eng" : ["ankle"], "rus" : ["лодыжка", "щиколотка"]}
+{"eng" : ["ear"], "rus" : ["ухо", "слух"]}
+{"eng" : ["tooth"], "rus" : ["зуб"]}
+{"eng" : ["teeth"], "rus" : ["зубы"]}
+{"eng" : ["lip"], "rus" : ["губа"]}
+{"eng" : ["eye"], "rus" : ["глаз", "взгляд"]}
+{"eng" : ["nose"], "rus" : ["нос"]}
+{"eng" : ["mouth"], "rus" : ["рот"]}
+{"eng" : ["forehead"], "rus" : ["лоб"]}
+{"eng" : ["cheek"], "rus" : ["щека"]}
+{"eng" : ["eyebrow"], "rus" : ["бровь"]}
+{"eng" : ["eyelash"], "rus" : ["рестница"]}
+
